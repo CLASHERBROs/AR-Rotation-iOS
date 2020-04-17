@@ -40,7 +40,7 @@
 		DEAEF87624498F7C00164DAA = {
 			isa = PBXGroup;
 			children = (
-				DEAEF88124498F7C00164DAA /* Diceey-AR */,
+				DEAEF88124498F7C00164DAA /* Rotation-AR */,
 				DEAEF88024498F7C00164DAA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DEAEF88124498F7C00164DAA /* Diceey-AR */ = {
+		DEAEF88124498F7C00164DAA /* Rotation-AR */ = {
 			isa = PBXGroup;
 			children = (
 				DEAEF88224498F7C00164DAA /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				DEAEF88D24498F8500164DAA /* LaunchScreen.storyboard */,
 				DEAEF89024498F8500164DAA /* Info.plist */,
 			);
-			path = "Diceey-AR";
+			path = "Rotation-AR";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DEAEF87E24498F7C00164DAA /* Diceey-AR */ = {
+		DEAEF87E24498F7C00164DAA /* Rotation-AR */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DEAEF89324498F8500164DAA /* Build configuration list for PBXNativeTarget "Diceey-AR" */;
+			buildConfigurationList = DEAEF89324498F8500164DAA /* Build configuration list for PBXNativeTarget "Rotation-AR" */;
 			buildPhases = (
 				DEAEF87B24498F7C00164DAA /* Sources */,
 				DEAEF87C24498F7C00164DAA /* Frameworks */,
@@ -82,7 +82,7 @@
 			);
 			dependencies = (
 			);
-			name = "Diceey-AR";
+			name = "Rotation-AR";
 			productName = "Diceey-AR";
 			productReference = DEAEF87F24498F7C00164DAA /* Rotating-Moon.app */;
 			productType = "com.apple.product-type.application";
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DEAEF87A24498F7C00164DAA /* Build configuration list for PBXProject "Diceey-AR" */;
+			buildConfigurationList = DEAEF87A24498F7C00164DAA /* Build configuration list for PBXProject "Rotation-AR" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DEAEF87E24498F7C00164DAA /* Diceey-AR */,
+				DEAEF87E24498F7C00164DAA /* Rotation-AR */,
 			);
 		};
 /* End PBXProject section */
@@ -319,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DEAEF87A24498F7C00164DAA /* Build configuration list for PBXProject "Diceey-AR" */ = {
+		DEAEF87A24498F7C00164DAA /* Build configuration list for PBXProject "Rotation-AR" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DEAEF89124498F8500164DAA /* Debug */,
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DEAEF89324498F8500164DAA /* Build configuration list for PBXNativeTarget "Diceey-AR" */ = {
+		DEAEF89324498F8500164DAA /* Build configuration list for PBXNativeTarget "Rotation-AR" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DEAEF89424498F8500164DAA /* Debug */,
